@@ -1,4 +1,4 @@
-package com.craftinginterpreters.panza;
+package com.panzainterpreter.panza;
 
 import java.util.List;
 import java.util.Map;

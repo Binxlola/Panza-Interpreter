@@ -1,4 +1,4 @@
-package com.craftinginterpreters.panza;
+package com.panzainterpreter.panza;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -8,7 +8,7 @@ import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.util.List;
 
-import static com.craftinginterpreters.panza.TokenType.EOF;
+import static com.panzainterpreter.panza.TokenType.EOF;
 
 public class Panza {
     private static final Interpreter interpreter = new Interpreter();

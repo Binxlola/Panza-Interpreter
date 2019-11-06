@@ -1,4 +1,4 @@
-package com.craftinginterpreters.tool;
+package com.panzainterpreter.tool;
 
 import java.io.IOException;
 import java.io.PrintWriter;

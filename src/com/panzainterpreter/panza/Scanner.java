@@ -1,11 +1,11 @@
-package com.craftinginterpreters.panza;
+package com.panzainterpreter.panza;
 
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-import static com.craftinginterpreters.panza.TokenType.*;
+import static com.panzainterpreter.panza.TokenType.*;
 
 public class Scanner {
 

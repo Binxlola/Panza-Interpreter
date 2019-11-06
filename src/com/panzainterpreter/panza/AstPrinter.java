@@ -1,4 +1,4 @@
-package com.craftinginterpreters.panza;
+package com.panzainterpreter.panza;
 
 /**
  * Create an unambiguous, if ugly, string representation of AST nodes.

@@ -1,4 +1,4 @@
-package com.craftinginterpreters.panza;
+package com.panzainterpreter.panza;
 
 public class Return extends RuntimeException {
 
